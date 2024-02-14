@@ -14,5 +14,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "HseKotlin3"
-include(":app")
- 
